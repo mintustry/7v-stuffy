@@ -2,7 +2,7 @@ name: warhead
 description: mommy im scared 
 details: none
 radius: 100
-type: NuclearWarhead
+type: Incinerator
 size: 1
 health: 1
 research: air
